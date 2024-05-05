@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "topic.name.producer",
+      "type": "java.lang.String",
+      "description": "Description for topic.name.producer."
+  }
+] }
